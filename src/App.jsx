@@ -19,6 +19,13 @@ function App() {
       <div id="banner">
         <img src={logo} alt="Hamburguer" />
       </div>
+
+      <div id='opcoes'>
+        <p>Hambúrguer</p>
+        <p>Bebidas</p>
+        <p>Sobremesas</p>
+      </div>
+
       <div id="cardapio">
         <div className="hamburguer">
           <div className='descricao'>
@@ -30,6 +37,7 @@ function App() {
             <img src={hamburguer1} alt="Hamburguer" />
           </div>
         </div>
+        
         <div className="hamburguer">
           <div className='descricao'>
             <h2>Torre de Bacon e Cebola Crispy</h2>
@@ -40,6 +48,7 @@ function App() {
             <img src={hamburguer2} alt="Hamburguer" />
           </div>
         </div>
+        
         <div className="hamburguer">
           <div className='descricao'>
             <h2>Mediterrâneo Gourmet</h2>
@@ -50,6 +59,7 @@ function App() {
             <img src={hamburguer4} alt="Hamburguer" />
           </div>
         </div>
+        
         <div className="hamburguer">
           <div className='descricao'>
             <h2>The Black Bacon Melt</h2>
@@ -60,6 +70,7 @@ function App() {
             <img src={hamburguer5} alt="Hamburguer" />
           </div>
         </div>
+        
         <div className="hamburguer">
           <div className='descricao'>
             <h2>Double Smash Supreme</h2>
@@ -70,6 +81,7 @@ function App() {
             <img src={hamburguer6} alt="Hamburguer" />
           </div>
         </div>
+        
         <div className="hamburguer">
           <div className='descricao'>
             <h2>O Clássico Chef's</h2>
@@ -80,6 +92,7 @@ function App() {
             <img src={hamburguer7} alt="Hamburguer" />
           </div>
         </div>
+        
         <div className="hamburguer">
           <div className='descricao'>
             <h2>Duplo BBQ Desfiado</h2>
@@ -90,6 +103,7 @@ function App() {
             <img src={hamburguer8} alt="Hamburguer" />
           </div>
         </div>
+        
         <div className="hamburguer">
           <div className='descricao'>
             <h2>Queijo e Bacon Rústico</h2>

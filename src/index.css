@@ -22,6 +22,22 @@ body{
   border-radius: 2rem;
 }
 
+#opcoes{
+  margin: 0rem 10rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  text-align: center;
+}
+
+
+#opcoes p{
+  margin: 1rem;
+  gap: 5rem;
+  background-color: blanchedalmond;
+  padding: 2rem;
+  border-radius: 1rem;
+}
+
 #cardapio{
   margin: 2rem 10rem;
   display: grid;
