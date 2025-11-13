@@ -1,5 +1,3 @@
-import "/home/muniz/Documentos/Web/cardapio/src/index.css"
-
 function Opcoes() {
     return (
         <>

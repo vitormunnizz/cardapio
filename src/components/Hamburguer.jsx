@@ -1,4 +1,3 @@
-import "/home/muniz/Documentos/Web/cardapio/src/index.css"
 import hamburguer1 from "/home/muniz/Documentos/Web/cardapio/src/assets/1.jpg"
 import hamburguer2 from "/home/muniz/Documentos/Web/cardapio/src/assets/2.jpg"
 import hamburguer4 from "/home/muniz/Documentos/Web/cardapio/src/assets/4.jpg"
