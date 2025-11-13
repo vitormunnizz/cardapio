@@ -2,6 +2,8 @@ import { useState } from 'react'
 import Opcoes from "/home/muniz/Documentos/Web/cardapio/src/components/Opcoes.jsx"
 import Hamburguer from "/home/muniz/Documentos/Web/cardapio/src/components/Hamburguer.jsx"
 import Banner from "/home/muniz/Documentos/Web/cardapio/src/components/Banner.jsx"
+import Sobremesa from "/home/muniz/Documentos/Web/cardapio/src/components/Sobremesa.jsx"
+import Bebida from "/home/muniz/Documentos/Web/cardapio/src/components/Bebida.jsx"
 
 
 function App() {
@@ -16,7 +18,7 @@ function App() {
         <Opcoes></Opcoes>
       </div>
       <div id='cardapio'>
-        <Hamburguer />
+        <Bebida />
       </div>
 
     </>

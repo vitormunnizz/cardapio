@@ -30,13 +30,13 @@ body{
   cursor: pointer;
 }
 
-
 #opcoes p{
   margin: 1rem;
   gap: 5rem;
   background-color: blanchedalmond;
   padding: 2rem;
   border-radius: 1rem;
+  font-size: 2.25rem;
 }
 
 #cardapio{
@@ -45,7 +45,7 @@ body{
   grid-template-columns: 1fr 1fr;
 }
 
-.hamburguer{
+.item{
   cursor: pointer;
   align-items: center;
   margin: 1rem;
@@ -71,6 +71,7 @@ body{
 }
 
 .imagem img{
+  height: 25rem;
   width: 35rem;
   border-radius: 2rem;
 }
