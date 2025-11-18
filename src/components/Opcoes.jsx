@@ -5,8 +5,9 @@ function Opcoes({mudarCategoria}) {
     return (
         <>
             <button onClick={() => mudarCategoria(0)}>Hambúrguer</button>
-            <button onClick={() => mudarCategoria(1)}>Bebidas</button>
-            <button onClick={() => mudarCategoria(2)}>Sobremesas</button>
+            <button onClick={() => mudarCategoria(1)}>Sobremesas</button>
+            <button onClick={() => mudarCategoria(2)}>Bebidas</button>
+            
         </>
     );
 }

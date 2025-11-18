@@ -8,7 +8,7 @@
 body {
   overflow-x: hidden;
   margin: 0rem 15rem;
-  background-color: rgb(88, 14, 14);
+  background-color: black;
 }
 
 #banner {
@@ -93,7 +93,7 @@ body {
   }
 
   #opcoes button {
-    padding: 1.5rem 1rem;
+    padding: 1.5rem 0rem;
     border-radius: 1rem;
   }
 
